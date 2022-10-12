@@ -1,0 +1,7 @@
+SYS_EXIT equ 0x1
+SYS_READ equ 0x3
+SYS_WRITE equ 0x4
+
+STDIN equ 0x0
+STDOUT equ 0x1
+STDERR equ 0x2
